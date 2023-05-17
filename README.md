@@ -1,2 +1,2 @@
 # Webpage
-Project for creating a webpage
+Project for creating a webpage.
